@@ -1,0 +1,11 @@
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\bin\Debug\FormsLogin.exe.config
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\bin\Debug\FormsLogin.exe
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\bin\Debug\FormsLogin.pdb
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.csprojAssemblyReference.cache
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.Form1.resources
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.Properties.Resources.resources
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.csproj.GenerateResource.cache
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.exe
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.pdb
+C:\Users\Andrés\source\repos\FormsLogin\FormsLogin\obj\Debug\FormsLogin.FormCadastro.resources
